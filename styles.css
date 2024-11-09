@@ -1,0 +1,88 @@
+body {
+    background-color: #f0f4f8;
+}
+
+.calculator {
+    background-color: #212529;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+#display {
+    font-size: 1.5rem;
+    height: 50px;
+    background-color: #343a40;
+    color: #fff;
+    border: none;
+}
+
+.btn-group-sm .btn {
+    width: 25%;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    border: none;
+}
+
+.btn-number {
+    background-color: #17a2b8;
+    color: #fff;
+}
+
+.btn-number:hover {
+    background-color: #138496;
+}
+
+.btn-operator {
+    background-color: #e83e8c;
+    color: #fff;
+}
+
+.btn-operator:hover {
+    background-color: #c82362;
+}
+
+.btn-func {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-func:hover {
+    background-color: #218838;
+}
+
+.btn-clear {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.btn-clear:hover {
+    background-color: #bd2130;
+}
+
+.btn-delete {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.btn-delete:hover {
+    background-color: #e0a800;
+}
+
+.btn-brackets {
+    background-color: #6f42c1;
+    color: #fff;
+}
+
+.btn-brackets:hover {
+    background-color: #5a32a3;
+}
+
+.btn-equals {
+    background-color: #007bff;
+    color: #fff;
+    width: 100%;
+}
+
+.btn-equals:hover {
+    background-color: #0056b3;
+}
